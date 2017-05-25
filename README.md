@@ -1,7 +1,7 @@
 # my-vue
 
 > A Vue.js project
-
+> vue-cli , Multiple page
 ## Build Setup
 
 ``` bash
